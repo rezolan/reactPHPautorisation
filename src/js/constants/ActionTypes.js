@@ -1,0 +1,7 @@
+export const ADD_POST = "ADD_POST";
+export const ADD_ALL_POSTS = "ADD_ALL_POSTS";
+export const UPDATE_EDITED_POST = "UPDATE_EDITED_POST";
+export const SEARCH_POST = "SEARCH_POST";
+export const DELETE_POST = "DELETE_POST";
+export const UPDATE_CONTENT_TOGGLER = "UPDATE_CONTENT_TOGGLER";
+export const ADD_LOGIN = "ADD_LOGIN";
